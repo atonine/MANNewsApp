@@ -1,0 +1,37 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "88544C404E59AABD6A21B2A1F0DD98B7E9BA19E5",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "B3A7FE3FEE3B57436099C68323481976257272D8" : 9223372036854775807,
+    "88544C404E59AABD6A21B2A1F0DD98B7E9BA19E5" : 9223372036854775807,
+    "B1B54F2A377F036396DBDE44EC81DE77C3291818" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "DCF7932D-4312-40CA-B35D-071EA9FE8BC1",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "B3A7FE3FEE3B57436099C68323481976257272D8" : "MANNewsApp\/Pods\/",
+    "88544C404E59AABD6A21B2A1F0DD98B7E9BA19E5" : "MANNewsApp\/",
+    "B1B54F2A377F036396DBDE44EC81DE77C3291818" : "MakeANews2.1\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "MakeANews2.1",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "MakeANews2.1.xcworkspace",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/atonine\/MANNewsApp.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "88544C404E59AABD6A21B2A1F0DD98B7E9BA19E5"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/atonine\/demo.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "B1B54F2A377F036396DBDE44EC81DE77C3291818"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/atonine\/demo.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "B3A7FE3FEE3B57436099C68323481976257272D8"
+    }
+  ]
+}
